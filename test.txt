@@ -9,3 +9,5 @@ Console.WriteLine("Hello, world!"); // C#
 Console.log("Hello, world!\n"); // JavaScript
 
 echo "Hello, world!" // Batch Script
+
+// Каждая функция выводит "Hello, world!"
