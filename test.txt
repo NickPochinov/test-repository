@@ -11,3 +11,5 @@ Console.log("Hello, world!\n"); // JavaScript
 echo "Hello, world!" // Batch Script
 
 // Каждая функция выводит "Hello, world!"
+
+int a = 2;
