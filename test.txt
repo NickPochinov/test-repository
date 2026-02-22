@@ -1,0 +1,11 @@
+print("Hello, world!"); // Python
+
+System.out.println("Hello, world!"); // Java
+
+cout << "Hello, world!" << endl; // C++
+
+Console.WriteLine("Hello, world!"); // C#
+
+Console.log("Hello, world!\n"); // JavaScript
+
+echo "Hello, world" // Batch Script
